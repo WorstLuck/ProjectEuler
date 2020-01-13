@@ -2,4 +2,4 @@
 Project Euler challenge
 https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/
 
-Just a slow update on Euler programming challenge problems using Python 
+Just a slow update on Euler programming challenge problems using Python. Will keep adding solutions as I go.
